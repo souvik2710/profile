@@ -1,0 +1,19 @@
+
+.svg { 
+  
+	/* color: #ff214f; */
+	/* fill: aquamarine; */
+} 
+
+#lowercard{
+	margin-left: 40%;
+    margin-top: 15%;
+}
+#uppercard{
+	margin-left: 20%;
+    margin-top: 15%;
+}
+#lowesticons{
+	width: 25px;
+    height: 25px;
+}
