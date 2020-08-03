@@ -17,3 +17,33 @@
 	width: 25px;
     height: 25px;
 }
+.arlo_tm_button .fsend{
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    background-color: #ff214f;
+    padding: 7px 35px;
+    font-family: "Montserrat";
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease;
+	transition: all .3s ease;
+	border: 0px;
+	font-size: 16px;
+    line-height: 2;
+    letter-spacing: 0.8px;
+    word-wrap: break-word;
+    font-weight: 400;
+}
+.arlo_tm_button .fsend:active{
+  
+	border: 0px;
+	
+}
+.arlo_tm_button .fsend:focus{
+  
+	outline:0;
+	
+}
+/* button:focus {outline:0;} */
